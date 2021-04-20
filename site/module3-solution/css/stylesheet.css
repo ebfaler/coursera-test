@@ -1,0 +1,63 @@
+
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+  }
+
+body { 
+    background-color: pink;
+    font-family: 'Oxygen', sans-serif;
+   }
+
+
+h1 {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 30px;
+    font-family: arial, sans-serif;
+    color:black;
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+p {
+    background-color: peachpuff;
+    font-family: arial, sans-serif;
+    padding: 15px;
+ }
+    
+ section{
+     padding: 5px;
+    
+    }
+    
+ .box {
+    background-color:peachpuff;
+    border-color: black;
+    border: 1px solid black;
+    padding: 2px;
+    margin: 10px;
+    
+
+
+/** HEADER **/
+
+."container-fluid" {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
+
+ul.navbar-nav {
+    text-align: center;
+}
+
+
+
